@@ -1,5 +1,3 @@
 # Guessing Game
-
-Date and Time: [automatically generated date]
-
-Number of lines in guessinggame.sh: [number of lines in the script]
+Date and Time: Thu Jan  2 18:25:07 +01 2025
+Number of lines in guessinggame.sh:       29
